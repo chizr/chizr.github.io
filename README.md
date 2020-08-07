@@ -1,9 +1,20 @@
-# Christopher Dyer
+# Hello
 
-I solve hard problems<sup>1</sup>. With code. For money.
+I can do
+- React
+- TypeScript
+- GraphQL
 
-0412 315 095
+And also
+- Node
+- Scala
+- Python
+
+And wire up AWS with
+- SAM
+- CDK
+
+And also go on and on about functional programming.
+I can use git without complaining about it.
 
 [consult@christopherdyer.net](mailto:consult@christopherdyer.net)
-
-<sup>1<sub>well, not P=NP, but not Wordpress either</sub></sup>
