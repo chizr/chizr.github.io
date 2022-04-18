@@ -2,6 +2,14 @@
 
 Welcome to this obscure corner of the Internet. I hope you are having a nice day.
 
+## A little about me
+
+I am a Melbourne*-based software engineer seeking to explore interesting problem spaces.
+In a brave departure from cliche I have a beard and a bunch of monitors.
+In my spare time I do a lot of cycling and wrench on my terrible project car.
+
+<sub>*the Australia one</sub>
+
 ## Why would you want my help?
 
 I think we can agree that at the very least I have a rudimentary grasp of Markdown.
