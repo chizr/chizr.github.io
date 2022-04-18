@@ -33,7 +33,7 @@ Who doesn't love buzzword bingo?
   - and in terms of data modelling
 - Collect more data than you think you'll need
 - KISS
-- YANGI
+- YAGNI
 - Don't baffle people with TLAs
 
 ### Frontend
